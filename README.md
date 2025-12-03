@@ -81,6 +81,17 @@ The PDF includes:
 
 Generated using **DOMPDF/TCPDF**.
 
+
+#### 📄 Screenshots:
+
+<img width="1105" height="782" alt="Image" src="https://github.com/user-attachments/assets/5d00a322-5cb5-4d3f-9954-07b1cdb035e0" />
+<img width="1105" height="782" alt="Image" src="https://github.com/user-attachments/assets/d75f8937-a66d-46d6-846a-2384ae792a21" />
+<img width="845" height="637" alt="Image" src="https://github.com/user-attachments/assets/13aeb753-9008-414e-9c05-21785c22cd7b" />
+<img width="845" height="637" alt="Image" src="https://github.com/user-attachments/assets/b875d9a5-f60e-4be4-92cb-8786a0aca02e" />
+<img width="423" height="328" alt="Image" src="https://github.com/user-attachments/assets/2d44576c-0765-4bf9-9566-e6fe2bd2edb3" />
+
+<img width="829" height="523" alt="Image" src="https://github.com/user-attachments/assets/4cea476d-d7d7-4810-94a1-1828ddda770b" />
+
 ---
 
 ## 🛠 Technology Stack
