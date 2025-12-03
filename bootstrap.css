@@ -1,0 +1,36 @@
+.redirectheight{
+    width: 100%;
+    height: 40vh;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.redirectppop{
+    font-size: 20px;
+    padding: 40px;
+     background-color: aliceblue;
+    border-radius: 20px;
+    border: 2px solid darkblue;
+    position: absolute;
+    top: 0%;
+    transform: translate(0%,10%) scale(1.0);
+    text-align: center;
+    box-shadow: 0px  0px 8px red;
+    visibility: hidden;
+
+}.openthepopup{
+    visibility: visible;
+    top: 20%;
+    transform: translate(0%,10%) scale(1.0);
+    transition: transform 0.4s, top 0.4s;
+}
+.changetxtcolor{
+    color: brown;
+    font-size: 26px;
+    font-weight: bold;
+}.sectionss{
+    background-color: whitesmoke;
+    height: 100vh;
+}

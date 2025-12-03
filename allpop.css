@@ -1,0 +1,38 @@
+
+.mmnnhh h4{
+  font-size: 65px;
+  padding: 30px;
+  color: green;
+}
+
+.mmnnhh{
+  background-color: wheat;
+  display: inline-block;
+  border-radius: 70px;
+  position: fixed;
+  top: 0%;
+  left: 35%;
+  visibility: hidden;
+    border: 3px solid black;
+}
+
+
+.mmnnhhss{
+  background-color: wheat;
+  display: inline-block;
+  border-radius: 70px;
+  position: fixed;
+  top: 40%;
+  left: 35%;
+  visibility: visible;
+  transition: ease 2.5s top;
+
+
+}
+.zzz{
+  margin-top: -50px;
+
+  width: 140px;
+
+}
+
